@@ -40,7 +40,7 @@
 			<b>Abyss of the Self</b>
 			<div class="text-xs opacity-70">Explore the mysteries...</div>
 		</div>
-		<div class="badge variant-ghost-tertiary">Vertical Slice</div>
+		<div class="badge w-[50%] variant-ghost-tertiary">Vertical Slice</div>
 	</div>
 	<hr />
 	{#if gameDetails}
@@ -69,11 +69,11 @@
 	<hr />
 	<div class="flex justify-between p-4 gap-8">
 		<div>
-			<div class="font-semibold text-2xl">$1.99</div>
+			<div class="font-semibold text-2xl">$2.99</div>
 			<div class="text-sm opacity-70">PC, Mac, Linux</div>
 		</div>
 		<button
-			class="btn btn-sm variant-filled-primary w-full"
+			class="btn btn-sm variant-filled-primary w-[50%]"
 			on:click={() => setGameDetails('Abyss of the Self')}>Buy now</button
 		>
 	</div>

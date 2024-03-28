@@ -3,6 +3,7 @@
 	import ProductComponent from '../components/ProductComponent.svelte';
 	import FAQComponent from '../components/FAQComponent.svelte';
 	import SubscribeComponent from '../components/SubscribeComponent.svelte';
+	// Add Subscribe Back
 </script>
 
 <div class="container h-full mx-auto flex justify-center items-center">
@@ -12,6 +13,5 @@
 			<ProductComponent />
 		</div>
 		<FAQComponent />
-		<SubscribeComponent />
 	</div>
 </div>

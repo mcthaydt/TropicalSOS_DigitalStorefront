@@ -15,7 +15,7 @@
 				class="btn md:btn-lg w-full md:w-fit variant-ringed-surface">Linktr.ee</a
 			>
 			<a
-				href="https://discord.gg/Pktkmp6n"
+				href="https://discord.gg/Sv2VwwXXRJ"
 				class="btn md:btn-lg w-full md:w-fit variant-glass-surface">Discord</a
 			>
 		</div>
