@@ -28,6 +28,11 @@
 			gameDetails = null;
 		}
 	}
+
+	function redirectToBuyWebsite() {
+		location.href = 'https://tropicalsos.itch.io/abyss-of-the-self';
+	}
+
 	import myImage from '../assets/AbyssOfTheSelfScreenshot3.png';
 </script>
 
@@ -74,7 +79,7 @@
 		</div>
 		<button
 			class="btn btn-sm variant-filled-primary w-[50%]"
-			on:click={() => setGameDetails('Abyss of the Self')}>Buy now</button
+			on:click={() => redirectToBuyWebsite()}>Buy now</button
 		>
 	</div>
 </div>
